@@ -1,0 +1,26 @@
+.topbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 7vh;
+    padding: 0px 20px;
+}
+.topbarContainer{
+    background-color: aqua;
+    height: 7vh;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+.text{
+    color: white;
+    font-size: 23px;
+    letter-spacing: 2px;
+}
+
+.btn{
+    background-color: red;
+    color: wheat;
+    padding: 5px;
+    cursor: pointer;
+}
